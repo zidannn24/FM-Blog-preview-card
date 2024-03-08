@@ -26,19 +26,20 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Desktop](./design/desktop-result.png)
+![Mobile](./design/mobile-result.png)
 
 ### Links
 
 - Solution URL: [Here]()
-- Live Site URL: [Here]()
+- Live Site URL: [Here](https://zidannn24.github.io/FM-Blog-preview-card/)
 
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
+- CSS
 - Flexbox
 
 ## Author
